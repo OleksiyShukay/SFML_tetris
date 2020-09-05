@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\junioc++\test\sfml\main.cpp(67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML.vcxproj -> D:\junioC++\TEST\SFML\Debug\SFML.exe
